@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "nombre": "Analia",
+      "apellido": "Navas",
+      "tipoe": "joven",
+      "genero": "Mujer",
+      "etnia": "blanco",
+      "vivienda": "propia",
+      "tipov": "casa",
+      "servicios": "luz,agua,internet",
+      "nivel": "bachillerato"
+    }
+  ]
